@@ -13,6 +13,3 @@
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tool>-<OpenCV>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5C3EE8)
 ![](https://img.shields.io/badge/<Tool>-<TF>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<Tool>-<OpenCV>-informational?style=flat&logo=data:image/#5C3EE8;base64,<BASE64_DATA>)
-
