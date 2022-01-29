@@ -23,7 +23,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpine&show_icons=true&locale=en&layout=compact" alt="arpine" /></p>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpine&show_icons=true&locale=en" alt="arpine" /></p>
 
@@ -33,21 +37,3 @@
 
 
 
-
-
-
-### Hi there 👋 I'm Arpine
-
-- 🔭 I’m currently working on Custom Vision Problem
-- 🌱 I’m currently learning DevOps, ML and related things
-- 👯 I’m looking to collaborate on DS related problems and solutions
-- 💬 Ask me about anything related to my past experience
-- 📫 How to reach me: My Linkedin Profile
-- ⚡ Fun fact: I love continuous learning / continuous development:)
-
-
-![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<WINDOWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tool>-<OpenCV>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5C3EE8)
-![](https://img.shields.io/badge/<Tool>-<TF>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
