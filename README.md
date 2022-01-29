@@ -14,3 +14,4 @@
 ![](https://img.shields.io/badge/<Tool>-<OpenCV>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5C3EE8)
 ![](https://img.shields.io/badge/<Tool>-<TF>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%5C3EE8;base64,<BASE64_DATA>)
