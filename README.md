@@ -6,3 +6,6 @@
 - 💬 Ask me about anything related to my past experience
 - 📫 How to reach me: My Linkedin Profile
 - ⚡ Fun fact: I love continuous learning / continuous development:)
+
+
+![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
