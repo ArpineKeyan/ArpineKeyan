@@ -1,6 +1,3 @@
-<img src="https://github.com/ArpineKeyan/ArpineKeyan/blob/master/readme/photo.jpg">
-
-
 ### Hi there 👋 I'm Arpine
 
 - 🔭 I’m currently working on Custom Vision Problem
