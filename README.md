@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpine&label=Profile%20views&color=0e75b6&style=flat" alt="arpine" /> </p>
 
-- 🔭 Working on **Custom Vision project**
+- 🔭 Working on **NLP project**
 
 - 🌱 Learning **DevOps, ML and related things**
 
